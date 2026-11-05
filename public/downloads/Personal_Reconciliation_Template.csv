@@ -1,0 +1,6 @@
+Date,Description,Debit,Credit,Balance,Reference,Notes
+01/11/2024,"Opening Balance",0.00,0.00,0.00,BF-001,"Enter opening bank balance"
+02/11/2024,"POS [MERCHANT NAME]",0.00,0.00,0.00,POS-001,"POS Card Settlement (Date under narrative)"
+03/11/2024,"Direct Transfer Inward",0.00,0.00,0.00,TRF-001,"Customer Invoice Payment"
+04/11/2024,"Supplier Outward Payment",0.00,0.00,0.00,SUP-001,"Inventory purchase"
+05/11/2024,"Bank Charges",0.00,0.00,0.00,CHG-001,"Maintenance / SMS Alerts"

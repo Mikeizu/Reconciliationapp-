@@ -1,0 +1,12 @@
+Date,Narrative,Debit,Credit,Balance,Reference
+01/10/2024,"Opening Balance - Bank Account #1200",0.00,0.00,2616400.20,SAGE-BF-01
+02/10/2024,"Broadband / Internet Subscription",35000.00,0.00,2581400.20,BILL-OCT-02
+05/10/2024,"Kinpre Global Ventures POS Collection Sales Batch",0.00,495000.00,3076400.20,POS-REC-001
+12/10/2024,"Repairs & Maintenance - Facility Generator",110000.00,0.00,2966400.20,EXP-1210
+14/10/2024,"Kinpre Global Ventures Daily POS Takings",0.00,215000.00,3181400.20,POS-REC-002
+18/10/2024,"Apex Logistics Freight Invoice #88291",520000.00,0.00,2661400.20,AP-APEX-88291
+20/10/2024,"Kinpre Global Ventures - Saturday Retail Sales",0.00,642500.00,3303900.20,POS-REC-003
+24/10/2024,"Customer Payment - Oluwaseun Adeniji Inv #1042",0.00,1250000.00,4553900.20,REC-1042
+26/10/2024,"Electricity & Utility Expenses - IKEDC",45000.00,0.00,4508900.20,UTIL-IKEDC-10
+28/10/2024,"Kinpre Global Ventures POS Store Settlement",0.00,385000.00,4893900.20,POS-REC-004
+30/10/2024,"Petty Cash Replenishment (Pending Cheque Presentation)",28000.00,0.00,4865900.20,CHQ-004819

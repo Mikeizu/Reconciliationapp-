@@ -1,0 +1,6 @@
+{
+  "name": "ReconcileEase - Bank & Sage Smart Reconciliation",
+  "description": "Automated Bank Statement and Sage GL reconciliation with date order auto-alignment, AI-powered POS transaction detection for KINPRE GLOBAL VENTURES, and variance analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
